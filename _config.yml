@@ -7,7 +7,7 @@
 
 # Site settings
 title: SeoYongsam's Blog
-brief-intro: Front-end Dev Engineer
+brief-intro: 꿈꾸는 초보 개발자
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://SeoYongsam.github.io" # the base hostname & protocol for your site
 
