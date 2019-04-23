@@ -8,8 +8,12 @@ author: 서용삼
 mathjax: true
 ---
 깃헙으로 블로그를 만들고자 하는 열망을 갖고
+
 구글링을 해서 나온 사이트를 보고 새로운 repository를 파고 만들었습니다.
 
+
 reference
+
 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+
 https://github.com/Gaohaoyang/gaohaoyang.github.io
