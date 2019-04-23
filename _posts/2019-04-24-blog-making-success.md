@@ -4,7 +4,7 @@ title:  "블로그 개설을 하면서 고생했던 것들"
 date:   2019-04-24 02:56:00
 categories: jekyll
 tags: jekyll markdown HTML CSS
-author: 서용삼
+author: Yo_EE
 mathjax: true
 ---
 # 구현 완료, 고생고생한 것들
