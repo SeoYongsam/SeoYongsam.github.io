@@ -19,7 +19,7 @@ type: page
 
 ## DataCamp
 
-    서울대학교 2019년 봄학기 '비주얼라이제이션' 수업에서 등록하게 되었습니다. 데이터 가공 및 데이터 시각화를 위해 학습하고 있습니다. 현재(2019-04-25) Data Scientist 트랙의 강의를 수강하고 있습니다.
+    서울대학교 2019년 봄학기 '비주얼라이제이션' 수업에서 등록하게 되었습니다. 데이터 가공 및 데이터 시각화를 위해 학습하고 있습니다. 현재(2019-04-25) Data Scientist 트랙의 강의를 수강하고 있습니다. 아래는 수료증 모음입니다.
 
 ### R
 
@@ -48,6 +48,7 @@ type: page
 
 * [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/3115404ad9e6e778f1ddbb997bed2be8f7d0a578) Apr 24, 2019
 
+# 수정중
 
 ## 工具
 
