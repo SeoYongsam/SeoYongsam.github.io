@@ -9,37 +9,61 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## 테스트
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+## 자기소개
 
-就职于阿里巴巴，前端开发。
+<iframe src="https://githubbadge.appspot.com/SeoYongsam" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
+아마추어 오케스트라에서 비올라 연주자로 활동을 꾸준히 해왔습니다. 관현악곡을 좋아합니다 :)
+####[SNUPO](https://www.snupo.org/932566)
+* 제45회 정기연주회
+    J.Brahms, Tragic Overture Op.81
+    P.Tchaikovsky, Violin Concerto Op.35
 
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
+* 제50회 정기연주회
+    F. Schubert, Rosamunde Overture, D.797
+    E. Grieg, Peer Gynt Suite No.1&2, Op.46, 55
+    P. I. Tchaikovsky, Symphony No.6 in B minor, Op.74, "Pathétique"
 
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
+* 제51회 정기연주회(회계)
+    C. Saint-Saëns, Danse Macabre, Op.40
+    J. Brahms, Concerto for Violin and Cello, Op.102
+    P. I. Tchaikovsky, Symphony No.5 in E minor, Op,64
 
-还有，学习是一个非常愉快的过程。共同加油！
+* 제53회 정기연주회(비올라 수석)
+    J. Brahms Academic Festival Overture, Op. 80
+    P. I. Tchaikovsky Swan Lake (Excerpts), Op. 20
+    J. Brahms Symphony No.2 in D Major, Op. 73
 
-* 2016.6.30 入职阿里巴巴
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
+* 제54회 정기연주회(객원)
+    C. M. v. Weber, Der Freischütz Overture, Op.77
+    A. Dvořák, Cello Concerto in b minor, Op. 104
+    J. Sibelius, Symphony No.2 in D major, Op. 43
 
-## 联系我
+#### [가우디움](https://gaudium.modoo.at/)
+* 제12회 정기연주회
+    F. Mendelssohn, Die Hebriden, Op.26
+    G. Mahler, Symphony No.1
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+게임을 좋아합니다. 주요 콘솔로는 PS4 PRO, Nintendo Switch를 보유하고 있습니다.
+주요 전자기기로는  MacBook Pro '15 2016, iPad Pro 3rd '12.9, Galaxy S10 Plus를 보유하고 있습니다.
+새로운 것을 시도하는 걸 무척 좋아합니다.
+
+* 2018.9 서울대학교 연합전공 정보문화학 17.5기 진입
+* 2017.3- 강원학사 관악 입사
+* 2015.3-2016.12 육군 행정병 복무
+* 2014 서울대학교 산림과학부 입학, SNUPO 가입
+
+## 연락처
+
+* GitHub：[SeoYongsam](https://github.com/SeoYongsam)
+* Email：yongsam@snu.ac.kr
+* [Facebook](https://www.facebook.com/SeoYongsam)
+* [Instagram](https://www.instagram.com/seoyongsam/)
+
+---
+# 수정중
 
 ## 关于本站
 
