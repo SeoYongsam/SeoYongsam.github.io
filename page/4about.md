@@ -11,12 +11,13 @@ type: page
 
 ## 테스트
 
-## 자기소개
-
 <iframe src="https://githubbadge.appspot.com/SeoYongsam" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
+## 오케스트라
+
 아마추어 오케스트라에서 비올라 연주자로 활동을 꾸준히 해왔습니다. 관현악곡을 좋아합니다 :)
-####[SNUPO](https://www.snupo.org/932566)
+
+#### [SNUPO](https://www.snupo.org/932566)
 * 제45회 정기연주회
     J.Brahms, Tragic Overture Op.81
     P.Tchaikovsky, Violin Concerto Op.35
@@ -46,9 +47,13 @@ type: page
     F. Mendelssohn, Die Hebriden, Op.26
     G. Mahler, Symphony No.1
 
+## 보유 전자기기
+
 게임을 좋아합니다. 주요 콘솔로는 PS4 PRO, Nintendo Switch를 보유하고 있습니다.
 주요 전자기기로는  MacBook Pro '15 2016, iPad Pro 3rd '12.9, Galaxy S10 Plus를 보유하고 있습니다.
 새로운 것을 시도하는 걸 무척 좋아합니다.
+
+## 연혁
 
 * 2018.9 서울대학교 연합전공 정보문화학 17.5기 진입
 * 2017.3- 강원학사 관악 입사
