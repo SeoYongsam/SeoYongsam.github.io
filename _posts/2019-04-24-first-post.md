@@ -2,7 +2,7 @@
 layout: post
 title:  "jekyll을 이용한 블로그 개설"
 date:   2019-04-24 01:05:00
-categories: jekyll
+categories: diary
 tags: jekyll markdown HTML CSS
 author: Yo_EE
 mathjax: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "Problem Solving에 관심을 갖게 되다"
 date:   2019-04-25 15:05:00
-categories: Problem Solving
+categories: ProblemSolving
 tags: ProblemSolving Book SQL
 author: Yo_EE
 mathjax: true
