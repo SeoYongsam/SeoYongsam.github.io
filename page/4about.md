@@ -49,9 +49,13 @@ type: page
 
 ## 보유 전자기기
 
-게임을 좋아합니다. 주요 콘솔로는 PS4 PRO, Nintendo Switch를 보유하고 있습니다.
-주요 전자기기로는  MacBook Pro '15 2016, iPad Pro 3rd '12.9, Galaxy S10 Plus를 보유하고 있습니다.
-새로운 것을 시도하는 걸 무척 좋아합니다.
+* 게임기
+    * PS4 PRO 1TB
+    * Nintendo Switch
+
+* MacBook Pro (15-inch, Late 2016)
+* iPad Pro 12.9 inch 3rd Gen Cellular
+* Galaxy S10 Plus
 
 ## 연혁
 
