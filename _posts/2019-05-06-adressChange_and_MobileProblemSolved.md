@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "# 깃 블로그 주소 변경 및 뜬금 없는 문제 해결"
+title:  "깃 블로그 주소 변경 및 뜬금 없는 문제 해결"
 date:   2019-05-06 23:41:00
 categories: diary
 tags: blog diary HTML
