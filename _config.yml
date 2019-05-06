@@ -8,7 +8,7 @@
 # Site settings
 title: Yo_EE
 brief-intro: 꿈꾸는 초보 개발자
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SeoYongsam.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
