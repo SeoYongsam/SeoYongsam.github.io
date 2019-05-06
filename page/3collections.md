@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collections
-permalink: /blog/collection/
+permalink: /collection/
 icon: bookmark
 type: page
 ---
@@ -43,6 +43,9 @@ type: page
 
 * [Data Visualization with ggplot2 (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/4ff09bb54a3fced307f76eb2f53ffe9e396c652d) Apr 23, 2019
 
+* [Cleaning Data in R](https://www.datacamp.com/statement-of-accomplishment/course/51594fc42feb7e741543e30e383294716aa62345) Apr 25, 2019
+
+* [Importing & Cleaning Data in R: Case Studies](https://www.datacamp.com/statement-of-accomplishment/course/85c14bf30830cc707766dbe8b52d0a6129230224) Apr 26, 2019
 
 ### SQL
 
