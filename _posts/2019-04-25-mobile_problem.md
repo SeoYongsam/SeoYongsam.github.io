@@ -3,7 +3,7 @@ layout: post
 title:  "모바일 사이트 문제"
 date:   2019-04-25 22:16:00
 categories: diary
-tags: music orchestra diary culture
+tags: blog diary HTML
 author: Yo_EE
 mathjax: true
 ---
