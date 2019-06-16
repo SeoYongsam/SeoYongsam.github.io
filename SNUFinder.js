@@ -10,24 +10,22 @@ app.use(logger('dev', {}));
 app.use(bodyParser.json());
 app.use('/api', apiRouter);
 
-apiRouter.post('/findNearestPrintRoom', function (req, res) {
-    fs.readFile('NearestPrintRoom.csv', function (err, data) {
-        const responseBody = {
-            version: "2.0",
-            template: {
-                outputs: [
-                    {
-                        simpleText: {
-                            text: "hello I'm Ryan"
-                        }
-                    }
-                ]
+apiRouter.post('/sayHello', function(req, res) {
+    const responseBody = {
+      version: "2.0",
+      template: {
+        outputs: [
+          {
+            simpleText: {
+              text: "hello I'm Ryan"
             }
-        };
-
-        res.status(200).send(responseBody);
-    });
-});
+          }
+        ]
+      }
+    };
+  
+    res.status(200).send(responseBody);
+  });  
 
 apiRouter.post('/showHello', function (req, res) {
     console.log(req.body);
